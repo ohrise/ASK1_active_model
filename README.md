@@ -2,6 +2,7 @@
 
 SMILES 기반으로 화합물의 **MAP3K5(ASK1) 저해 활성(IC50)** 을 예측하는 머신러닝 프로젝트입니다.  
 ChEMBL과 PubChem 데이터를 활용하여 분자 특성을 추출하고 회귀 모델을 통해 pIC50 값을 예측합니다.
+다음을 참고하십시오 : https://dacon.io/competitions/official/236530/overview/description
 
 ---
 
